@@ -1,0 +1,495 @@
+<resources>
+    <string name="app_name">Who Is This</string>
+
+    <string-array name="EN_breeds">
+        <item>Chihuahua</item>
+        <item>Japanese Spaniel</item>
+        <item>Maltese</item>
+        <item>Pekinese</item>
+        <item>Shih-Tzu</item>
+        <item>Blenheim spaniel</item>
+        <item>Papillon</item>
+        <item>Toy terrier</item>
+        <item>Rhodesian ridgeback</item>
+        <item>Afghan hound</item>
+        <item>Basset</item>
+        <item>Beagle</item>
+        <item>Bloodhound</item>
+        <item>Bluetick</item>
+        <item>Black-and-tan coonhound</item>
+        <item>Walker hound</item>
+        <item>English foxhound</item>
+        <item>Redbone</item>
+        <item>Borzoi</item>
+        <item>Irish wolfhound</item>
+        <item>Italian greyhound</item>
+        <item>Whippet</item>
+        <item>Ibizan hound</item>
+        <item>Norwegian elkhound</item>
+        <item>Otterhound</item>
+        <item>Saluki</item>
+        <item>Scottish deerhound</item>
+        <item>Weimaraner</item>
+        <item>Staffordshire bullterrier</item>
+        <item>American Staffordshire terrier</item>
+        <item>Bedlington terrier</item>
+        <item>Border terrier</item>
+        <item>Kerry blue terrier</item>
+        <item>Irish terrier</item>
+        <item>Norfolk terrier</item>
+        <item>Norwich terrier</item>
+        <item>Yorkshire terrier</item>
+        <item>Wire-haired fox terrier</item>
+        <item>Lakeland terrier</item>
+        <item>Sealyham terrier</item>
+        <item>Airedale</item>
+        <item>Cairn</item>
+        <item>Australian terrier</item>
+        <item>Dandie Dinmont</item>
+        <item>Boston bull</item>
+        <item>Miniature schnauzer</item>
+        <item>Giant schnauzer</item>
+        <item>Standard schnauzer</item>
+        <item>Scotch terrier</item>
+        <item>Tibetan terrier</item>
+        <item>Silky terrier</item>
+        <item>Soft-coated wheaten terrier</item>
+        <item>West highland white terrier</item>
+        <item>Lhasa</item>
+        <item>Flat-coated retriever</item>
+        <item>Curly-coated retriever</item>
+        <item>Golden retriever</item>
+        <item>Labrador retriever</item>
+        <item>Chesapeake bay retriever</item>
+        <item>German short-haired pointer</item>
+        <item>Vizsla</item>
+        <item>English setter</item>
+        <item>Irish setter</item>
+        <item>Gordon setter</item>
+        <item>Brittany spaniel</item>
+        <item>Clumber</item>
+        <item>English springer</item>
+        <item>Welsh springer spaniel</item>
+        <item>Cocker spaniel</item>
+        <item>Sussex spaniel</item>
+        <item>Irish water spaniel</item>
+        <item>Kuvasz</item>
+        <item>Schipperke</item>
+        <item>Groenendael</item>
+        <item>Malinois</item>
+        <item>Briard</item>
+        <item>Kelpie</item>
+        <item>Komondor</item>
+        <item>Old English sheepdog</item>
+        <item>Shetland sheepdog</item>
+        <item>Collie</item>
+        <item>Border collie</item>
+        <item>Bouvier des Flandres</item>
+        <item>Rottweiler</item>
+        <item>German shepherd</item>
+        <item>Doberman</item>
+        <item>Miniature pinscher</item>
+        <item>Greater swiss mountain dog</item>
+        <item>Bernese mountain dog</item>
+        <item>Appenzeller</item>
+        <item>EntleBucher</item>
+        <item>Boxer</item>
+        <item>Bull mastiff</item>
+        <item>Tibetan mastiff</item>
+        <item>French bulldog</item>
+        <item>Great dane</item>
+        <item>Saint bernard</item>
+        <item>Eskimo dog</item>
+        <item>Malamute</item>
+        <item>Siberian husky</item>
+        <item>Affenpinscher</item>
+        <item>Basenji</item>
+        <item>Pug</item>
+        <item>Leonberg</item>
+        <item>Newfoundland</item>
+        <item>Great pyrenees</item>
+        <item>Samoyed</item>
+        <item>Pomeranian</item>
+        <item>Chow</item>
+        <item>Keeshond</item>
+        <item>Brabancon griffon</item>
+        <item>Pembroke</item>
+        <item>Cardigan</item>
+        <item>Toy poodle</item>
+        <item>Miniature poodle</item>
+        <item>Standard poodle</item>
+        <item>Mexican hairless</item>
+        <item>Dingo</item>
+        <item>Dhole</item>
+        <item>African hunting dog</item>
+    </string-array>
+
+    <string-array name="CH_breeds">
+        <item>吉娃娃</item>
+        <item>日本狆</item>
+        <item>馬爾濟斯</item>
+        <item>獅子狗</item>
+        <item>西施犬</item>
+        <item>查理王小獵犬</item>
+        <item>蝴蝶犬</item>
+        <item>英國玩賞㹴</item>
+        <item>羅得西亞背脊犬</item>
+        <item>阿富汗獵狗</item>
+        <item>巴吉度獵犬</item>
+        <item>小獵犬</item>
+        <item>尋血獵犬</item>
+        <item>布魯克浣熊獵犬</item>
+        <item>黑褐獵浣熊犬</item>
+        <item>樹叢浣熊獵犬</item>    <!--趕上樹競走者獵浣熊犬--><!--error-->
+        <item>英國獵狐犬</item>
+        <item>瑞德朋獵浣熊犬</item>
+        <item>蘇俄牧羊犬</item>
+        <item>愛爾蘭獵狼犬</item>
+        <item>義大利靈緹犬</item>
+        <item>惠比特犬</item>
+        <item>伊比莎獵犬</item>
+        <item>挪威獵麋犬</item>
+        <item>奧達獵犬</item>
+        <item>薩路基獵犬</item>
+        <item>蘇格蘭獵鹿犬</item>
+        <item>威瑪犬</item>
+        <item>斯塔福郡鬥牛㹴</item>
+        <item>美國史特富郡㹴</item>
+        <item>貝林登㹴</item>
+        <item>邊境㹴</item>
+        <item>凱利藍㹴</item>
+        <item>愛爾蘭㹴</item>
+        <item>諾福克㹴</item>
+        <item>挪利其㹴</item>
+        <item>約克夏㹴</item>
+        <item>剛毛獵狐㹴</item>
+        <item>湖畔㹴</item>
+        <item>西里漢姆㹴</item>
+        <item>萬能㹴</item>
+        <item>凱恩㹴</item>
+        <item>澳洲㹴</item>
+        <item>丹第丁蒙㹴</item>
+        <item>波士頓㹴</item>
+        <item>迷你雪納瑞</item>
+        <item>巨型雪納瑞</item>
+        <item>標準型雪納瑞</item>
+        <item>蘇格蘭㹴</item>
+        <item>西藏㹴</item>
+        <item>澳洲絲毛㹴</item>
+        <item>愛爾蘭軟毛㹴</item>
+        <item>西高地白㹴</item>
+        <item>拉薩犬</item>
+        <item>平毛尋回犬</item>
+        <item>捲毛尋回犬</item>
+        <item>黃金獵犬</item>
+        <item>拉布拉多犬</item>
+        <item>乞沙比克獵犬</item>
+        <item>德國短毛指示犬</item>
+        <item>維茲拉犬</item>
+        <item>英國蹲獵犬</item>
+        <item>愛爾蘭雪達犬</item>
+        <item>戈登蹲獵犬</item>
+        <item>不列塔尼獵犬</item>
+        <item>克倫伯獵犬</item>
+        <item>史賓格犬</item>
+        <item>威爾斯激飛獵犬</item>
+        <item>可卡犬</item>
+        <item>薩塞克斯獵犬</item>
+        <item>愛爾蘭水獵犬</item>
+        <item>庫瓦茲犬</item>
+        <item>史奇派克犬</item>
+        <item>格羅安達犬</item>
+        <item>比利時瑪連萊犬</item>    <!---->
+        <item>伯瑞犬</item>
+        <item>澳洲卡爾比犬</item>
+        <item>可蒙犬</item>
+        <item>英國古代牧羊犬</item>
+        <item>喜樂蒂牧羊犬</item>
+        <item>可麗牧羊犬</item>
+        <item>邊境牧羊犬</item>
+        <item>法蘭德斯畜牧犬</item>
+        <item>羅威那犬</item>
+        <item>德國牧羊犬</item>
+        <item>杜賓犬</item>
+        <item>迷你品犬</item>
+        <item>大瑞士山地犬</item>
+        <item>伯恩山犬</item>
+        <item>阿彭策爾山犬</item>
+        <item>恩特布山犬</item>
+        <item>拳師犬</item>
+        <item>鬥牛獒</item>
+        <item>藏獒</item>
+        <item>法國鬥牛犬</item>
+        <item>大丹犬</item>
+        <item>聖伯納犬</item>
+        <item>愛斯基摩犬</item>
+        <item>阿拉斯加雪橇犬</item>
+        <item>西伯利亞哈士奇</item>
+        <item>猴㹴</item>
+        <item>貝生吉犬</item>
+        <item>巴哥犬</item>
+        <item>蘭伯格犬</item>
+        <item>紐芬蘭犬</item>
+        <item>大白熊犬</item>
+        <item>薩摩耶犬</item>
+        <item>博美犬</item>
+        <item>鬆獅犬</item>
+        <item>凱斯犬</item>
+        <item>布魯塞爾格林芬犬</item>
+        <item>潘布魯克威爾斯柯基犬</item>
+        <item>卡提根威爾斯柯基犬</item>
+        <item>玩具貴賓犬</item>
+        <item>迷你貴賓犬</item>
+        <item>標準貴賓犬</item>
+        <item>墨西哥無毛犬</item>
+        <item>澳洲野犬</item>
+        <item>豺</item>
+        <item>非洲野犬</item>
+    </string-array>
+
+    <string-array name="wiki_url">
+        <item>https://zh.wikipedia.org/wiki/%E5%90%89%E5%A8%83%E5%A8%83</item>
+        <item>https://en.wikipedia.org/wiki/Japanese_Chin</item>
+        <item>https://en.wikipedia.org/wiki/Maltese_(dog)</item>
+        <item>https://en.wikipedia.org/wiki/Pekingese</item>
+        <item>https://en.wikipedia.org/wiki/Shih_Tzu</item>
+        <item>https://en.wikipedia.org/wiki/King_Charles_Spaniel</item>
+        <item>https://en.wikipedia.org/wiki/Papillon_(dog)</item>
+        <item>https://en.wikipedia.org/wiki/English_Toy_Terrier_(Black_%26_Tan)</item>
+        <item>https://en.wikipedia.org/wiki/Rhodesian_Ridgeback</item>
+        <item>https://en.wikipedia.org/wiki/Afghan_Hound</item>
+        <item>https://en.wikipedia.org/wiki/Basset_Hound</item>
+        <item>https://en.wikipedia.org/wiki/Beagle</item>
+        <item>https://en.wikipedia.org/wiki/Bloodhound</item>
+        <item>https://en.wikipedia.org/wiki/Bluetick_Coonhound</item>
+        <item>https://en.wikipedia.org/wiki/Black_and_Tan_Coonhound</item>
+        <item>https://en.wikipedia.org/wiki/Treeing_Walker_Coonhound</item>
+        <item>https://en.wikipedia.org/wiki/English_Foxhound</item>
+        <item>https://en.wikipedia.org/wiki/Redbone_Coonhound</item>
+        <item>https://en.wikipedia.org/wiki/Borzoi</item>
+        <item>https://en.wikipedia.org/wiki/Irish_wolfhound</item>
+        <item>https://en.wikipedia.org/wiki/Italian_Greyhound</item>
+        <item>https://en.wikipedia.org/wiki/Whippet</item>
+        <item>https://en.wikipedia.org/wiki/Ibizan_Hound</item>
+        <item>https://en.wikipedia.org/wiki/Norwegian_Elkhound</item>
+        <item>https://en.wikipedia.org/wiki/Otterhound</item>
+        <item>https://en.wikipedia.org/wiki/Saluki</item>
+        <item>https://en.wikipedia.org/wiki/Scottish_Deerhound</item>
+        <item>https://en.wikipedia.org/wiki/Weimaraner</item>
+        <item>https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/American_Staffordshire_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Bedlington_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Border_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Kerry_Blue_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Irish_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Norfolk_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Norwich_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Yorkshire_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Wire_Fox_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Lakeland_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Sealyham_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Airedale_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Cairn_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Australian_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Boston_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Miniature_Schnauzer</item>
+        <item>https://en.wikipedia.org/wiki/Giant_Schnauzer</item>
+        <item>https://en.wikipedia.org/wiki/Standard_Schnauzer</item>
+        <item>https://en.wikipedia.org/wiki/Scottish_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Tibetan_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Australian_Silky_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Soft-coated_Wheaten_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/West_Highland_White_Terrier</item>
+        <item>https://en.wikipedia.org/wiki/Lhasa_Apso</item>
+        <item>https://en.wikipedia.org/wiki/Flat-coated_Retriever</item>
+        <item>https://en.wikipedia.org/wiki/Curly-coated_Retriever</item>
+        <item>https://en.wikipedia.org/wiki/Golden_Retriever</item>
+        <item>https://en.wikipedia.org/wiki/Labrador_Retriever</item>
+        <item>https://en.wikipedia.org/wiki/Chesapeake_Bay_Retriever</item>
+        <item>https://en.wikipedia.org/wiki/German_Shorthaired_Pointer</item>
+        <item>https://en.wikipedia.org/wiki/Vizsla</item>
+        <item>https://en.wikipedia.org/wiki/English_Setter</item>
+        <item>https://en.wikipedia.org/wiki/Irish_Setter</item>
+        <item>https://en.wikipedia.org/wiki/Gordon_Setter</item>
+        <item>https://en.wikipedia.org/wiki/Brittany_(dog)</item>
+        <item>https://en.wikipedia.org/wiki/Clumber_Spaniel</item>
+        <item>https://en.wikipedia.org/wiki/English_Springer_Spaniel</item>
+        <item>https://en.wikipedia.org/wiki/Welsh_Springer_Spaniel</item>
+        <item>https://en.wikipedia.org/wiki/Cocker_Spaniel</item>
+        <item>https://en.wikipedia.org/wiki/Sussex_Spaniel</item>
+        <item>https://en.wikipedia.org/wiki/Irish_Water_Spaniel</item>
+        <item>https://en.wikipedia.org/wiki/Kuvasz</item>
+        <item>https://en.wikipedia.org/wiki/Schipperke</item>
+        <item>https://en.wikipedia.org/wiki/Groenendael_dog</item>
+        <item>https://en.wikipedia.org/wiki/Malinois_dog</item>
+        <item>https://en.wikipedia.org/wiki/Briard</item>
+        <item>https://en.wikipedia.org/wiki/Australian_Kelpie</item>
+        <item>https://en.wikipedia.org/wiki/Komondor</item>
+        <item>https://en.wikipedia.org/wiki/Old_English_Sheepdog</item>
+        <item>https://en.wikipedia.org/wiki/Shetland_Sheepdog</item>
+        <item>https://en.wikipedia.org/wiki/Collie</item>
+        <item>https://en.wikipedia.org/wiki/Border_Collie</item>
+        <item>https://en.wikipedia.org/wiki/Bouvier_des_Flandres</item>
+        <item>https://en.wikipedia.org/wiki/Rottweiler</item>
+        <item>https://en.wikipedia.org/wiki/German_Shepherd</item>
+        <item>https://en.wikipedia.org/wiki/Dobermann</item>
+        <item>https://en.wikipedia.org/wiki/Miniature_Pinscher</item>
+        <item>https://en.wikipedia.org/wiki/Greater_Swiss_Mountain_Dog</item>
+        <item>https://en.wikipedia.org/wiki/Bernese_Mountain_Dog</item>
+        <item>https://en.wikipedia.org/wiki/Appenzeller_Sennenhund</item>
+        <item>https://en.wikipedia.org/wiki/Entlebucher_Mountain_Dog</item>
+        <item>https://en.wikipedia.org/wiki/Boxer_(dog)</item>
+        <item>https://en.wikipedia.org/wiki/Bullmastiff</item>
+        <item>https://en.wikipedia.org/wiki/Tibetan_Mastiff</item>
+        <item>https://en.wikipedia.org/wiki/French_Bulldog</item>
+        <item>https://en.wikipedia.org/wiki/Great_Dane</item>
+        <item>https://en.wikipedia.org/wiki/St._Bernard_(dog)</item>
+        <item>https://en.wikipedia.org/wiki/American_Eskimo_Dog</item>
+        <item>https://en.wikipedia.org/wiki/Alaskan_Malamute</item>
+        <item>https://en.wikipedia.org/wiki/Siberian_Husky</item>
+        <item>https://en.wikipedia.org/wiki/Affenpinscher</item>
+        <item>https://en.wikipedia.org/wiki/Basenji</item>
+        <item>https://en.wikipedia.org/wiki/Pug</item>
+        <item>https://en.wikipedia.org/wiki/Leonberger</item>
+        <item>https://en.wikipedia.org/wiki/Newfoundland_(dog)</item>
+        <item>https://en.wikipedia.org/wiki/Great_Pyrenees</item>
+        <item>https://en.wikipedia.org/wiki/Samoyed_(dog)</item>
+        <item>https://en.wikipedia.org/wiki/Pomeranian_(dog)</item>
+        <item>https://en.wikipedia.org/wiki/Chow_Chow</item>
+        <item>https://en.wikipedia.org/wiki/Keeshond</item>
+        <item>https://en.wikipedia.org/wiki/Griffon_Bruxellois</item>
+        <item>https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi</item>
+        <item>https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi</item>
+        <item>https://en.wikipedia.org/wiki/Poodle</item>
+        <item>https://en.wikipedia.org/wiki/Poodle</item>
+        <item>https://en.wikipedia.org/wiki/Poodle</item>
+        <item>https://en.wikipedia.org/wiki/Xoloitzcuintle</item>
+        <item>https://en.wikipedia.org/wiki/Dingo</item>
+        <item>https://en.wikipedia.org/wiki/Dhole</item>
+        <item>https://en.wikipedia.org/wiki/African_wild_dog</item>
+    </string-array>
+
+    <string-array name="google_url">
+        <item>https://www.google.com/search?q=%E5%90%89%E5%A8%83%E5%A8%83&amp;sxsrf=ALeKk025j0PvGSPTKzXkVBBdyv4wPwgLyw:1584609016094&amp;gbv=1&amp;sei=-DZzXtKhBaPFmAX7zJjQDg</item>
+        <item>https://www.google.com/search?q=%E6%97%A5%E6%9C%AC%E7%8B%86&amp;sxsrf=ALeKk02_P_a5fMFEYkyhGZClZ1BnygnikQ:1584608598648&amp;gbv=1&amp;sei=VjVzXsaWJ4P7wQOS0qToDg</item>
+        <item>https://www.google.com/search?q=%E9%A6%AC%E7%88%BE%E6%BF%9F%E6%96%AF&amp;sxsrf=ALeKk01HYrwpDiZwjuaZv_PpPJF41pzp3Q:1584632174798&amp;gbv=1&amp;sei=bpFzXr-nMJLSmAWv6ZmoDA</item>
+        <item>https://www.google.com/search?q=%E7%8D%85%E5%AD%90%E7%8B%97&amp;sxsrf=ALeKk0017U1a0v7WUzxLzYPI-V2YAEEJVw:1584631587725&amp;gbv=1&amp;sei=I49zXvD0K6SUmAW2zpeQDA</item>
+        <item>https://www.google.com/search?q=%E8%A5%BF%E6%96%BD%E7%8A%AC&amp;sxsrf=ALeKk019T0kwqFwY93OyLzL0g2wmc0TWpA:1584631635649&amp;gbv=1&amp;sei=U49zXqOdJ4-D0wTd77iIDw</item>
+        <item>https://www.google.com/search?q=%E6%9F%A5%E7%90%86%E7%8E%8B%E5%B0%8F%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk00RjXpNaBcZkZUSTnL-gLwjAJ-rRw:1584631674246&amp;gbv=1&amp;sei=eo9zXvfQDsnKmAXPtbu4Dg</item>
+        <item>https://www.google.com/search?q=%E8%9D%B4%E8%9D%B6%E7%8A%AC&amp;sxsrf=ALeKk03h6TMG4WXse0nguwIV3-WvLtfpEg:1584631726318&amp;gbv=1&amp;sei=ro9zXoP_EuyRr7wPopy96Ak</item>
+        <item>https://www.google.com/search?q=%E8%8B%B1%E5%9C%8B%E7%8E%A9%E8%B3%9E%E3%B9%B4&amp;sa=X&amp;stick=H4sIAAAAAAAAAONgecTYzMgt8PLHPWGpqklrTl5jLOHiCs7IL3fNK8ksqRRS42KDsmS4eKU49XP1DYxNjctzNRikuLkQXCU7I6Ndl6adY9MR3Bvy_nAlZ7iDlIiSEBe7Z7FPfnJijiBfleQDyVPv7ZU4ORkYGBS2Pn9nr8XQtG_FITYWDkYBBp5FrPwvujc-ndP9vG_li83zHu_cAgA6t5nUmwAAAA&amp;biw=1536&amp;bih=722&amp;sxsrf=ALeKk03nFmEfx0tDw3OLy81xTCITvd2bog:1584631777219&amp;gbv=1&amp;sei=4Y9zXpD7DOOEr7wPwpWbuAg</item>
+        <item>https://www.google.com/search?q=%E7%BE%85%E5%BE%97%E8%A5%BF%E4%BA%9E%E8%83%8C%E8%84%8A%E7%8A%AC&amp;sxsrf=ALeKk02P3F1_XtACqJS4sUkmIrhv4umRkg:1584632806882&amp;gbv=1&amp;sei=5pNzXom0NaGUmAXUmZPYBg</item>
+        <item>https://www.google.com/search?q=%E9%98%BF%E5%AF%8C%E6%B1%97%E7%8D%B5%E7%8B%97&amp;sxsrf=ALeKk01oPeyaf1x6LvriCFiI_JPKqEb_hg:1584632860961&amp;gbv=1&amp;sei=HJRzXs2lOpCUmAWHxYGIAQ</item>
+        <item>https://www.google.com/search?q=%E5%B7%B4%E5%90%89%E5%BA%A6%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk00hjJ2aBGIqemcpeVW_4SwVMCh_PA:1584632911567&amp;gbv=1&amp;sei=T5RzXqWhIraWr7wP55GakA8</item>
+        <item>https://www.google.com/search?q=%E5%B0%8F%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk033uVMmI3DIX6litxdEFLkSjCA2lw:1584632956447&amp;gbv=1&amp;sei=fJRzXuv1GuGZr7wPv8aNiAk</item>
+        <item>https://www.google.com/search?q=%E5%B0%8B%E8%A1%80%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk03ylp10bv1yyVeQoTFB4XBpBShA8A:1584633007499&amp;gbv=1&amp;sei=r5RzXrqCHquvmAW1o7joCQ</item>
+        <item>https://www.google.com/search?q=%E5%B8%83%E9%AD%AF%E5%85%8B%E6%B5%A3%E7%86%8A%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk00giq6n-sitmFu6kflc8badsbpGzg:1584633088054&amp;gbv=1&amp;sei=AJVzXpXvAo-Er7wP8PmciA0</item>
+        <item>https://www.google.com/search?q=%E9%BB%91%E8%A4%90%E7%8D%B5%E6%B5%A3%E7%86%8A%E7%8A%AC&amp;sxsrf=ALeKk01wAQNp_ApOJIcWKua4G6l3v-Iuyg:1584633123440&amp;gbv=1&amp;sei=I5VzXtmuGr6Ir7wPwLew4AM</item>
+        <item>https://www.google.com/search?q=%E8%B6%95%E4%B8%8A%E6%A8%B9%E7%AB%B6%E8%B5%B0%E8%80%85%E7%8D%B5%E6%B5%A3%E7%86%8A%E7%8A%AC&amp;sxsrf=ALeKk00CJPaCuwkNH9JOUkjBX6kg2PV33w:1584633181009&amp;gbv=1&amp;sei=XZVzXq8SgdaYBYXbjKgO</item>
+        <item>https://www.google.com/search?q=%E8%8B%B1%E5%9C%8B%E7%8D%B5%E7%8B%90%E7%8A%AC&amp;sxsrf=ALeKk006tveEaG9D6mwdoMYUaXn48QWx0g:1584633257794&amp;gbv=1&amp;sei=qZVzXrLzL9XEmAWD95j4AQ</item>
+        <item>https://www.google.com/search?q=%E7%91%9E%E5%BE%B7%E6%9C%8B%E7%8D%B5%E6%B5%A3%E7%86%8A%E7%8A%AC&amp;sxsrf=ALeKk02VQtoootxxnGwDmAs2cK00duq_fw:1584633374160&amp;gbv=1&amp;sei=HpZzXoW3CYW0mAW1yIyQAw</item>
+        <item>https://www.google.com/search?q=%E8%98%87%E4%BF%84%E7%89%A7%E7%BE%8A%E7%8A%AC&amp;sxsrf=ALeKk01tzwPp_iX2wKYS8UQPuHn9lBSLHg:1584633420541&amp;gbv=1&amp;sei=TJZzXqTMIIeOr7wP0NeUqA0</item>
+        <item>https://www.google.com/search?q=%E6%84%9B%E7%88%BE%E8%98%AD%E7%8D%B5%E7%8B%BC%E7%8A%AC&amp;sxsrf=ALeKk02QVkWVpvOVRsSF9sxZG1W5PS__qw:1584633463020&amp;gbv=1&amp;sei=d5ZzXqNo5dWYBci8sKAN</item>
+        <item>https://www.google.com/search?q=%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%9D%88%E7%B7%B9%E7%8A%AC&amp;sxsrf=ALeKk00l7GdgUqkoTrkXlJg2Z9d9h9lXMQ:1584633501969&amp;gbv=1&amp;sei=nZZzXobuOous0QTwiJmABQ</item>
+        <item>https://www.google.com/search?q=%E6%83%A0%E6%AF%94%E7%89%B9%E7%8A%AC&amp;sxsrf=ALeKk02RozZsOHEb396rcyY5u5f146DWGA:1584633546337&amp;gbv=1&amp;sei=ypZzXsCRFIPZhwOv-5u4DA</item>
+        <item>https://www.google.com/search?q=%E4%BC%8A%E6%AF%94%E8%8E%8E%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk01s5npldrc4kY20N5IY1W0N_pEYmQ:1584633578985&amp;gbv=1&amp;sei=6pZzXuvlO5qNoASdmaeYCw</item>
+        <item>https://www.google.com/search?q=%E6%8C%AA%E5%A8%81%E7%8D%B5%E9%BA%8B%E7%8A%AC&amp;sxsrf=ALeKk010tQ10M5JuYYFTzgt2I2JVllGBmw:1584722689241&amp;gbv=1&amp;sei=AfN0XvqtDpL6-QbRsZ24BQ</item>
+        <item>https://www.google.com/search?q=%E5%A5%A7%E9%81%94%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk00BNbR4koNLM1QTwW65fGOWMSvIUA:1584722740852&amp;gbv=1&amp;sei=NPN0Xse8M829hwP5yriYBQ</item>
+        <item>https://www.google.com/search?q=%E8%96%A9%E8%B7%AF%E5%9F%BA%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk01EvyvWLjLHnNLbeZnTsuCn-U4xIg:1584722777513&amp;gbv=1&amp;sei=WfN0Xsz0HsTbhwPZpq2YBg</item>
+        <item>https://www.google.com/search?q=%E8%98%87%E6%A0%BC%E8%98%AD%E7%8D%B5%E9%B9%BF%E7%8A%AC&amp;sxsrf=ALeKk03vuOS5uKqbM0Plg36DSqB0hwYOGw:1584722810701&amp;gbv=1&amp;sei=evN0Xsm5KtTWhwPFgbHwBA</item>
+        <item>https://www.google.com/search?q=%E5%A8%81%E7%91%AA%E7%8A%AC&amp;sxsrf=ALeKk02spVbAgAZkeN-7RBafqEYWKqqUDQ:1584722855021&amp;gbv=1&amp;sei=p_N0Xo9x0r2HA_HCi9gB</item>
+        <item>https://www.google.com/search?q=%E6%96%AF%E5%A1%94%E7%A6%8F%E9%83%A1%E9%AC%A5%E7%89%9B%E3%B9%B4&amp;sxsrf=ALeKk014L0bYsBDdvtvPytdz7_v5caRKrA:1584722909377&amp;gbv=1&amp;sei=3fN0XpbFFsi4mAXJ04bIBw</item>
+        <item>https://www.google.com/search?q=%E7%BE%8E%E5%9C%8B%E5%8F%B2%E7%89%B9%E5%AF%8C%E9%83%A1%E3%B9%B4&amp;sxsrf=ALeKk03CA3y6IQ2geUqbe55aOqjeiCyQfw:1584722953404&amp;gbv=1&amp;sei=CfR0XuScGOGFr7wPofWqwAI</item>
+        <item>https://www.google.com/search?q=%E8%B2%9D%E6%9E%97%E7%99%BB%E3%B9%B4&amp;sxsrf=ALeKk01l_BTbVx-pYSCWi6JAg41aZk9lEw:1584722991747&amp;gbv=1&amp;sei=L_R0XpaVLYbW0gTq-ZHQBg</item>
+        <item>https://www.google.com/search?q=%E9%82%8A%E5%A2%83%E3%B9%B4&amp;sxsrf=ALeKk02ug2fbWb3qF6GLN5RXM7q0dHjYRw:1584723035726&amp;gbv=1&amp;sei=W_R0XrDzK8nEmAXWqoBw</item>
+        <item>https://www.google.com/search?q=%E5%87%B1%E5%88%A9%E8%97%8D%E3%B9%B4&amp;sxsrf=ALeKk01sf5kXKpt-jh3KUiYRwt2UaiGgBQ:1584723083345&amp;gbv=1&amp;sei=i_R0Xo7WFI-R0QT4lqSQDg</item>
+        <item>https://www.google.com/search?q=%E6%84%9B%E7%88%BE%E8%98%AD%E3%B9%B4&amp;sxsrf=ALeKk02UKfe_iFH6YssdQnm0GQLDFu60xg:1584723125167&amp;gbv=1&amp;sei=tfR0XsrfCaKDr7wPhbqAwAI</item>
+        <item>https://www.google.com/search?q=%E8%AB%BE%E7%A6%8F%E5%85%8B%E3%B9%B4&amp;sxsrf=ALeKk03bzlNlIj8Ip4ZbAwN6c5sDEE3FuA:1584723179349&amp;gbv=1&amp;sei=6_R0XrL1FIv6wAOM9qvYBg</item>
+        <item>https://www.google.com/search?q=%E6%8C%AA%E5%88%A9%E5%85%B6%E3%B9%B4&amp;sxsrf=ALeKk00NIB6-SiUEtqhoj6TlhBRrTJOuzg:1584723216813&amp;gbv=1&amp;sei=EPV0XpurMYnU-QbizK_YDQ</item>
+        <item>https://www.google.com/search?q=%E7%B4%84%E5%85%8B%E5%A4%8F%E3%B9%B4&amp;sxsrf=ALeKk02NOmK_iEiEHpbrQa9vzopVI4AJ7g:1584723265803&amp;gbv=1&amp;sei=QfV0XuHHMMvj-Abnp4qoAQ</item>
+        <item>https://www.google.com/search?q=%E5%89%9B%E6%AF%9B%E7%8D%B5%E7%8B%90%E3%B9%B4&amp;sxsrf=ALeKk01RA4QzFG1XUKxIhGcpZOPGNueLcQ:1584723303792&amp;gbv=1&amp;sei=Z_V0Xv31L8jR-Qa0t72QDA</item>
+        <item>https://www.google.com/search?q=%E6%B9%96%E7%95%94%E3%B9%B4&amp;sxsrf=ALeKk00Fcyi5Ck9MshsQhPyd_nLj9ZqoEA:1584723337622&amp;gbv=1&amp;sei=ifV0XsXIJdPr-QbdsJzQBw</item>
+        <item>https://www.google.com/search?q=%E8%A5%BF%E9%87%8C%E6%BC%A2%E5%A7%86%E3%B9%B4&amp;sxsrf=ALeKk01KEsTlAIzrDQJFuMXJkuTowgq-4g:1584723367192&amp;gbv=1&amp;sei=p_V0XuCpC5rAoAS8iKLwAg</item>
+        <item>https://www.google.com/search?q=%E8%90%AC%E8%83%BD%E3%B9%B4&amp;sxsrf=ALeKk01b7XEg7VcJ0gs82ZfX1ftZWNDslQ:1584723423032&amp;gbv=1&amp;sei=3_V0Xo3LAYfAoATn862ACw</item>
+        <item>https://www.google.com/search?q=%E5%87%B1%E6%81%A9%E3%B9%B4&amp;sxsrf=ALeKk00FTel0FovPe4koiTpVYccr0YMU_g:1584723486299&amp;gbv=1&amp;sei=HvZ0Xs3BEcvXhwOaxbTwAg</item>
+        <item>https://www.google.com/search?q=%E6%BE%B3%E6%B4%B2%E3%B9%B4&amp;sxsrf=ALeKk02pVmYA9Z2eVxdKy1gpEj3k2vo8dQ:1584723527510&amp;gbv=1&amp;sei=R_Z0XoLfHpq_wAPqgJ-ADQ</item>
+        <item>https://www.google.com/search?q=%E4%B8%B9%E7%AC%AC%E4%B8%81%E8%92%99%E3%B9%B4&amp;sxsrf=ALeKk02ZezP1Dk2k44E1YyWZ-SVVPegxiw:1584723577115&amp;gbv=1&amp;sei=efZ0XtW9Bsrj-AahoI3oBA</item>
+        <item>https://www.google.com/search?q=%E6%B3%A2%E5%A3%AB%E9%A0%93%E3%B9%B4&amp;sxsrf=ALeKk033Zb_3-GJegQjIRavLDZ97P4oNBw:1584723612722&amp;gbv=1&amp;sei=nPZ0XuvZK5WmoASY66eYAg</item>
+        <item>https://www.google.com/search?q=%E8%BF%B7%E4%BD%A0%E9%9B%AA%E7%B4%8D%E7%91%9E&amp;sxsrf=ALeKk02KtXs-5iM7IDdy4GVbyJviGQzFXQ:1584723654650&amp;gbv=1&amp;sei=xvZ0XqusJ8_AoATt-53gAg</item>
+        <item>https://www.google.com/search?q=%E5%B7%A8%E5%9E%8B%E9%9B%AA%E7%B4%8D%E7%91%9E&amp;sxsrf=ALeKk03NvhG7eES7mbaJ31UDfIBgY8kRYQ:1584723691862&amp;gbv=1&amp;sei=6_Z0XsmkNI36-QaK3rqQDw</item>
+        <item>https://www.google.com/search?q=%E6%A8%99%E6%BA%96%E5%9E%8B%E9%9B%AA%E7%B4%8D%E7%91%9E&amp;sxsrf=ALeKk03vzKp9VNIj_ZAH1pgFIaqtPXV4VA:1584723739503&amp;gbv=1&amp;sei=G_d0XpCrHtDh-AaJoYagDg</item>
+        <item>https://www.google.com/search?q=%E8%98%87%E6%A0%BC%E8%98%AD%E3%B9%B4&amp;sxsrf=ALeKk01z_Q532jWQ_zrpFgxVnjOxRpj1cQ:1584724637864&amp;gbv=1&amp;sei=nfp0XqSiNMzemAXbgpvwAg</item>
+        <item>https://www.google.com/search?q=%E8%A5%BF%E8%97%8F%E3%B9%B4&amp;sxsrf=ALeKk026uM78OulVJJ3ihejE4uaJx7m9VA:1584724679702&amp;gbv=1&amp;sei=x_p0XoHDKo2Tr7wPs5KvyAI</item>
+        <item>https://www.google.com/search?q=%E6%BE%B3%E6%B4%B2%E7%B5%B2%E6%AF%9B%E3%B9%B4&amp;sxsrf=ALeKk00yFsAA3KqvxDLeS7WzOWGzpOxm3w:1584724720065&amp;gbv=1&amp;sei=8Pp0Xoi8A4_W-Qb92L2wDA</item>
+        <item>https://www.google.com/search?q=%E6%84%9B%E7%88%BE%E8%98%AD%E8%BB%9F%E6%AF%9B%E3%B9%B4&amp;sxsrf=ALeKk02iqtAXbU5xUsWst8O0I9AuAbKV4A:1584724771545&amp;gbv=1&amp;sei=I_t0XuXOH4_8wAPOy6eoBg</item>
+        <item>https://www.google.com/search?q=%E8%A5%BF%E9%AB%98%E5%9C%B0%E7%99%BD%E3%B9%B4&amp;sxsrf=ALeKk01rX23b9hBvbzwxwb4Gu6djv2Hm_g:1584781842093&amp;gbv=1&amp;sei=Etp1XtOnBc7n-Qa9qIKoDg</item>
+        <item>https://www.google.com/search?q=%E6%8B%89%E8%96%A9%E7%8A%AC&amp;sxsrf=ALeKk02TObrPfwOLesRG6g8Uugd2fRHUmg:1584781910488&amp;gbv=1&amp;sei=Vtp1XrS1HcSDoATNmpTQAw</item>
+        <item>https://www.google.com/search?q=%E5%B9%B3%E6%AF%9B%E5%B0%8B%E5%9B%9E%E7%8A%AC&amp;sxsrf=ALeKk00K4RhjxOarzQXS1roBu8jQpnob6g:1584781944498&amp;gbv=1&amp;sei=eNp1Xv79HZONoATk6oWgAw</item>
+        <item>https://www.google.com/search?q=Curly-coated+retriever&amp;sxsrf=ALeKk014M_2TRpdDGSkRgQBJ2EgIQ_n1GQ:1584791600836&amp;gbv=1&amp;sei=MAB2XrHVMvPUmAXfpobYDA</item>
+        <item>https://www.google.com/search?q=%E9%BB%83%E9%87%91%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk01OMbThDMOyekV8JQIpaLhZr9ZrKA:1584782008475&amp;gbv=1&amp;sei=uNp1Xt7eHIr8wQOs9KAI</item>
+        <item>https://www.google.com/search?q=%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%E7%8A%AC&amp;sxsrf=ALeKk01aDqzvBm9XJiTUucvFzxxjvgUpfw:1584782045288&amp;gbv=1&amp;sei=3dp1XsCVEdCh-QbR5IuICQ</item>
+        <item>https://www.google.com/search?q=%E4%B9%9E%E6%B2%99%E6%AF%94%E5%85%8B%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk01b29E1cWczc9wuuDc3QQ_JrhVAug:1584782086865&amp;gbv=1&amp;sei=Btt1XuW7NJPWhwPHgIoY</item>
+        <item>https://www.google.com/search?q=%E5%BE%B7%E5%9C%8B%E7%9F%AD%E6%AF%9B%E6%8C%87%E7%A4%BA%E7%8A%AC&amp;sxsrf=ALeKk00luu-zkE2fKoYc57TuM_HV0dnINA:1584782128828&amp;gbv=1&amp;sei=MNt1XuOZMsH6-Qay4JGgCA</item>
+        <item>https://www.google.com/search?q=%E7%B6%AD%E8%8C%B2%E6%8B%89%E7%8A%AC&amp;sxsrf=ALeKk00WmdObXOkJu03dCMvmK5aOxP3jVA:1584782161708&amp;gbv=1&amp;sei=Udt1XszuKszN-Qa3x5e4Bg</item>
+        <item>https://www.google.com/search?q=%E8%8B%B1%E5%9C%8B%E8%B9%B2%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk02hzilAHVOndFLneNW7UArwTxSRag:1584782204348&amp;gbv=1&amp;sei=fNt1XuXyFIb1hwPewLCwDQ</item>
+        <item>https://www.google.com/search?q=%E6%84%9B%E7%88%BE%E8%98%AD%E9%9B%AA%E9%81%94%E7%8A%AC&amp;sxsrf=ALeKk032CDJKV49lHIij-wODyKrthEoL-w:1584782236700&amp;gbv=1&amp;sei=nNt1XoKhKsml-QbCjbDYDA</item>
+        <item>https://www.google.com/search?q=%E6%88%88%E7%99%BB%E8%B9%B2%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk02HwF7eDbGdPInVMMhJaWszBGE5SQ:1584782268968&amp;gbv=1&amp;sei=vNt1XrvSOof8wQP857Ug</item>
+        <item>https://www.google.com/search?q=%E4%B8%8D%E5%88%97%E5%A1%94%E5%B0%BC%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk02uHBBmHJu-GoIwgdsjeNYcf48Gwg:1584782308245&amp;gbv=1&amp;sei=5Nt1XpjLDsWh-QblgZvoBg</item>
+        <item>https://www.google.com/search?q=%E5%85%8B%E5%80%AB%E4%BC%AF%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk00mONamr-x_v70Muatlz6zAIMeRag:1584782342482&amp;gbv=1&amp;sei=Btx1XseAHYW5mAWG77fICQ</item>
+        <item>https://www.google.com/search?q=%E5%8F%B2%E8%B3%93%E6%A0%BC%E7%8A%AC&amp;sxsrf=ALeKk01wBTQSdBe-auXN5mru8Dr7VKljqw:1584782378571&amp;gbv=1&amp;sei=Ktx1XtmzIpGymAWvhLHAAw</item>
+        <item>https://www.google.com/search?q=%E5%A8%81%E7%88%BE%E6%96%AF%E6%BF%80%E9%A3%9B%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk00YpiU6fk_LXuHHMZwkwj-FSQT-VA:1584782414949&amp;gbv=1&amp;sei=Ttx1Xom7OcyVr7wPidK1wAM</item>
+        <item>https://www.google.com/search?q=%E5%8F%AF%E5%8D%A1%E7%8A%AC&amp;sxsrf=ALeKk008jIQQvwi29kq8m-bO3X8Mt52XDw:1584782450841&amp;gbv=1&amp;sei=ctx1XoDpMrCmmAXNzLiwCg</item>
+        <item>https://www.google.com/search?q=%E8%96%A9%E5%A1%9E%E5%85%8B%E6%96%AF%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk01hFk8gDeqBKiO1mx2TAoYTrGpoSA:1584782571417&amp;gbv=1&amp;sei=69x1XqGNGYSWr7wPnbGf0AI</item>
+        <item>https://www.google.com/search?q=%E6%84%9B%E7%88%BE%E8%98%AD%E6%B0%B4%E7%8D%B5%E7%8A%AC&amp;sxsrf=ALeKk00LHm2P9n2YN2z27VRaKsTDv-Amug:1584782614728&amp;gbv=1&amp;sei=Ft11Xpr9K6iVr7wPtuSU8Ag</item>
+        <item>https://www.google.com/search?q=%E5%BA%AB%E7%93%A6%E8%8C%B2%E7%8A%AC&amp;sxsrf=ALeKk02I7PP3c18_K0BS5-kkCzKsvl4abA:1584782670050&amp;gbv=1&amp;sei=Tt11XtTaAqzFmAXX_qyIAw</item>
+        <item>https://www.google.com/search?q=%E5%8F%B2%E5%A5%87%E6%B4%BE%E5%85%8B%E7%8A%AC&amp;sxsrf=ALeKk00TiJB-yGiw0bnKFRBgVGbivKOWfg:1584782750638&amp;gbv=1&amp;sei=nt11Xs3EJqqxmAXn6ZeQCw</item>
+        <item>https://www.google.com/search?q=%E6%A0%BC%E7%BE%85%E5%AE%89%E9%81%94%E7%8A%AC&amp;sxsrf=ALeKk03bhHIRY2qd3Nt_lcK2nS1vunxvcw:1584782787167&amp;gbv=1&amp;sei=w911Xs_wCeGbmAWt4qrgBw</item>
+        <item>https://www.google.com/search?q=%E6%AF%94%E5%88%A9%E6%99%82%E7%91%AA%E9%80%A3%E8%90%8A%E7%8A%AC&amp;sxsrf=ALeKk01NSsG6VAIDq-xdw1Bhuj25UfbgsA:1584789216240&amp;gbv=1&amp;sei=4PZ1XtaVDr-Xr7wP1b6f8AQ</item>
+        <item>https://www.google.com/search?q=%E4%BC%AF%E7%91%9E%E7%8A%AC&amp;sxsrf=ALeKk01oDvW3MF4OyMYo-_yUy9Of1OWvDg:1584789253304&amp;gbv=1&amp;sei=Bfd1XrmXEpXWmAW41Z34Dw</item>
+        <item>https://www.google.com/search?q=%E6%BE%B3%E6%B4%B2%E5%8D%A1%E7%88%BE%E6%AF%94%E7%8A%AC&amp;sxsrf=ALeKk02I_kTu9fh1f-S5T4D9i8AHmC4Mow:1584789273336&amp;gbv=1&amp;sei=Gfd1XpmZFOOumAXmy5-ICw</item>
+        <item>https://www.google.com/search?q=%E5%8F%AF%E8%92%99%E7%8A%AC&amp;sxsrf=ALeKk02BZxqlVEnsGy4PdZ7jhs5ZCkzwAA:1584789294416&amp;gbv=1&amp;sei=Lvd1Xvf7GOSzmAWZubfQDw</item>
+        <item>https://www.google.com/search?q=%E8%8B%B1%E5%9C%8B%E5%8F%A4%E4%BB%A3%E7%89%A7%E7%BE%8A%E7%8A%AC&amp;sxsrf=ALeKk022kmPeKNctPy2NJBesm2m39LBpQA:1584789314636&amp;gbv=1&amp;sei=Qvd1Xv68JvGHr7wPqbuK4AQ</item>
+        <item>https://www.google.com/search?q=%E5%96%9C%E6%A8%82%E8%92%82%E7%89%A7%E7%BE%8A%E7%8A%AC&amp;sxsrf=ALeKk02zoVdcy3vol5bNPv4Y1LkIuy51EQ:1584789336396&amp;gbv=1&amp;sei=WPd1XtjoF5XGmAW587X4Cw</item>
+        <item>https://www.google.com/search?q=%E5%8F%AF%E9%BA%97%E7%89%A7%E7%BE%8A%E7%8A%AC&amp;sxsrf=ALeKk024ZVBW0ZY8UHnFwcz6nQAxm1JDMA:1584874980780&amp;gbv=1&amp;sei=5EV3XpWdL5WUr7wPnJqw2AQ</item>    <!--80-->
+        <item>https://www.google.com/search?q=%E9%82%8A%E5%A2%83%E7%89%A7%E7%BE%8A%E7%8A%AC&amp;sxsrf=ALeKk01N4ME919DEav_45RQUoczTuUbo0g:1584877190094&amp;gbv=1&amp;sei=hk53XoyLBZvh-AaX5Qk</item>
+        <item>https://www.google.com/search?q=%E6%B3%95%E8%98%AD%E5%BE%B7%E6%96%AF%E7%95%9C%E7%89%A7%E7%8A%AC&amp;sxsrf=ALeKk03bxoNtzQz_BNcDnrrgecyPGbFq2g:1584789427266&amp;gbv=1&amp;sei=s_d1XvXND8e6mAW2soW4AQ</item>
+        <item>https://www.google.com/search?q=%E7%BE%85%E5%A8%81%E9%82%A3%E7%8A%AC&amp;sxsrf=ALeKk00ocdXasf0ON1q_26MCbEvkicZJdA:1584789450808&amp;gbv=1&amp;sei=yvd1XqLrMIr_0gSbubygDw</item>
+        <item>https://www.google.com/search?q=%E5%BE%B7%E5%9C%8B%E7%89%A7%E7%BE%8A%E7%8A%AC&amp;sxsrf=ALeKk01JAf1ELMEnjD91jTos8aKZHi4_pg:1584789472066&amp;gbv=1&amp;sei=4Pd1XrzPA4ezmAX3roegDA</item>
+        <item>https://www.google.com/search?q=%E6%9D%9C%E8%B3%93%E7%8A%AC&amp;sxsrf=ALeKk02u17uolTtxxmMHhTsb-pHgxOF5mg:1584789492383&amp;gbv=1&amp;sei=9Pd1XuOHF-yUr7wP8uyQ-AE</item>
+        <item>https://www.google.com/search?q=%E8%BF%B7%E4%BD%A0%E5%93%81%E7%8A%AC&amp;sxsrf=ALeKk010Ri2nT4iQ8EH4nVlvwu0fcdgX9g:1584789519137&amp;gbv=1&amp;sei=D_h1XoLpB-iXr7wP0sW02A4</item>
+        <item>https://www.google.com/search?q=%E5%A4%A7%E7%91%9E%E5%A3%AB%E5%B1%B1%E5%9C%B0%E7%8A%AC&amp;sxsrf=ALeKk03QmV1FYlZFehR6HUV3_LkXmmX4cA:1584789538952&amp;gbv=1&amp;sei=Ivh1XsfbOYqJoAS-u77QAg</item>
+        <item>https://www.google.com/search?q=%E4%BC%AF%E6%81%A9%E5%B1%B1%E7%8A%AC&amp;sxsrf=ALeKk01GyjzZHXVWYMADQw10QR5tWJeY5w:1584789559785&amp;gbv=1&amp;sei=N_h1XtrCL5vM-Qaq6IHQDQ</item>
+        <item>https://www.google.com/search?q=%E9%98%BF%E5%BD%AD%E7%AD%96%E7%88%BE%E5%B1%B1%E7%8A%AC&amp;sxsrf=ALeKk00lZ4uUpp1a1qrX4mc9lC9bEROkPw:1584789581442&amp;gbv=1&amp;sei=Tfh1XqvIGpDr-Qau9bKwCA</item>
+        <item>https://www.google.com/search?q=%E6%81%A9%E7%89%B9%E5%B8%83%E5%B1%B1%E7%8A%AC&amp;sxsrf=ALeKk00nn6zKFO9NR3s0jz2tqHEGg3EcGA:1584789601661&amp;gbv=1&amp;sei=Yfh1Xsf6J8mJoAT3g5u4AQ</item>
+        <item>https://www.google.com/search?q=%E6%8B%B3%E5%B8%AB%E7%8A%AC&amp;sxsrf=ALeKk00fLaXmjV_lTyFy91w2FMFSw2IeTg:1584789628942&amp;gbv=1&amp;sei=fPh1XpuEOYT7wQOWhafQBQ</item>
+        <item>https://www.google.com/search?q=%E9%AC%A5%E7%89%9B%E7%8D%92&amp;sxsrf=ALeKk00LWQg3hDN6e_sTx_L-YkXFWsoRFA:1584789673354&amp;gbv=1&amp;sei=qfh1XrCdFYSo-QbTxbTQAw</item>
+        <item>https://www.google.com/search?q=%E8%97%8F%E7%8D%92&amp;sxsrf=ALeKk01W7G-cPpQI5xogj-Ym2A3bSlolFg:1584789697426&amp;gbv=1&amp;sei=wfh1XubGGc3N-QaSxJqQCQ</item>
+        <item>https://www.google.com/search?q=%E6%B3%95%E5%9C%8B%E9%AC%A5%E7%89%9B%E7%8A%AC&amp;sxsrf=ALeKk01wyZm_wKCZs8c8roBaXkrMzFFbcQ:1584789716705&amp;gbv=1&amp;sei=1Ph1XqXQKsPn-QbXorXgAQ</item>   <!--error-->
+        <item>https://www.google.com/search?q=%E5%A4%A7%E4%B8%B9%E7%8A%AC&amp;sxsrf=ALeKk00RkvDuv0H2De_-ZNknH874FJHKyA:1584789914604&amp;gbv=1&amp;sei=mvl1Xvq_JJSlmAWLjLuoAg</item>
+        <item>https://www.google.com/search?q=%E8%81%96%E4%BC%AF%E7%B4%8D%E7%8A%AC&amp;sxsrf=ALeKk01Utl6FuYsUhEoA8CMd5I-8MuVy6A:1584789945073&amp;gbv=1&amp;sei=ufl1XtaUBMyymAWo0qLgDA</item>
+        <item>https://www.google.com/search?q=%E6%84%9B%E6%96%AF%E5%9F%BA%E6%91%A9%E7%8A%AC&amp;sxsrf=ALeKk00uCOwzeuEnb2EWOHwrbh2g_BhW3Q:1584789963355&amp;gbv=1&amp;sei=y_l1XuiiFYeD0wTBs6-gAg</item>
+        <item>https://www.google.com/search?q=%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E9%9B%AA%E6%A9%87%E7%8A%AC&amp;sxsrf=ALeKk03Dk0uyVJpbJZxT4afFAyBO6tg2ng:1584789980437&amp;gbv=1&amp;sei=3Pl1XpKfGuaYr7wP5LGiqA0</item>
+        <item>https://www.google.com/search?q=%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9E%E5%93%88%E5%A3%AB%E5%A5%87&amp;sxsrf=ALeKk003j7O1vjYxnqzd22dXXe6E7yOlYA:1584790005966&amp;gbv=1&amp;sei=9fl1XtfNOp2Vr7wPl6yYwAI</item>
+        <item>https://www.google.com/search?q=%E7%8C%B4%E3%B9%B4&amp;sxsrf=ALeKk00YgBUJNu4xO9Yb1BmW20yTGajWJg:1584790025344&amp;gbv=1&amp;sei=Cfp1XrbbFIG2mAXG4aXoCQ</item>
+        <item>https://www.google.com/search?q=%E8%B2%9D%E7%94%9F%E5%90%89%E7%8A%AC&amp;sxsrf=ALeKk01HJFIjk49nPlOBdF18TKHByiIjYA:1584790044636&amp;gbv=1&amp;sei=HPp1XpywJqGUr7wPscer0AQ</item>
+        <item>https://www.google.com/search?q=%E5%B7%B4%E5%93%A5%E7%8A%AC&amp;sxsrf=ALeKk02ESwlxWoGOpNS63lUIUHA9f0GoDQ:1584790061094&amp;gbv=1&amp;sei=Lfp1XoWqBbC2mAX05Iv4Cg</item>
+        <item>https://www.google.com/search?q=%E8%98%AD%E4%BC%AF%E6%A0%BC%E7%8A%AC&amp;sxsrf=ALeKk03PPqQzHesA00qIU1IsLmJRaRdsZQ:1584790079541&amp;gbv=1&amp;sei=P_p1XtXWIIi5mAXAoK_oBA</item>
+        <item>https://www.google.com/search?q=%E7%B4%90%E8%8A%AC%E8%98%AD%E7%8A%AC&amp;sxsrf=ALeKk02hC9wliyV1HBEQmmr1QMOlQxC84w:1584790096257&amp;gbv=1&amp;sei=UPp1XqCfD9yUr7wPq_yBgAQ</item>
+        <item>https://www.google.com/search?q=%E5%A4%A7%E7%99%BD%E7%86%8A%E7%8A%AC&amp;sxsrf=ALeKk00iXEU9y_0iOKukWGS5Kx1PVQlLdw:1584790117519&amp;gbv=1&amp;sei=Zfp1XpmSH4-R0QT4lqSQDg</item>
+        <item>https://www.google.com/search?q=%E8%96%A9%E6%91%A9%E8%80%B6%E7%8A%AC&amp;sxsrf=ALeKk036ShvxYNyhAp3chwy2KK8EhaU_EQ:1584790134919&amp;gbv=1&amp;sei=dvp1XqbmN9OWr7wP7_i9-AU</item>
+        <item>https://www.google.com/search?q=%E5%8D%9A%E7%BE%8E%E7%8A%AC&amp;sxsrf=ALeKk02qZtr703RSKcL6jtavW8bvpu8mTw:1584790168189&amp;gbv=1&amp;sei=mPp1XrCRC6-Xr7wPo8eacA</item>
+        <item>https://www.google.com/search?q=%E9%AC%86%E7%8D%85%E7%8A%AC&amp;sxsrf=ALeKk03lvPmr_gbDroYNt9UvPdSiNbCTdw:1584790188145&amp;gbv=1&amp;sei=rPp1XsSYCMPomAXI14SADw</item>
+        <item>https://www.google.com/search?q=%E5%87%B1%E6%96%AF%E7%8A%AC&amp;sxsrf=ALeKk03uzwnGqliTWflBI-37QwmPa5UgLQ:1584790206286&amp;gbv=1&amp;sei=vvp1XoKHEaiNr7wPx8iswA4</item>
+        <item>https://www.google.com/search?q=%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A0%BC%E6%9E%97%E8%8A%AC%E7%8A%AC&amp;sxsrf=ALeKk02Tf6qSXUC6PiA3fozo60BWhBlwWQ:1584790228506&amp;gbv=1&amp;sei=1Pp1Xv68HseGr7wP8MypsAo</item>
+        <item>https://www.google.com/search?q=%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC&amp;sxsrf=ALeKk00RRHr9Zb2_PZeyt0DDXq2F1NkLIg:1584790247367&amp;gbv=1&amp;sei=5_p1Xo3yFbSXr7wPnNWfsAw</item>
+        <item>https://www.google.com/search?q=%E5%8D%A1%E6%8F%90%E6%A0%B9%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC&amp;sxsrf=ALeKk03yrRv5oi0vD9Gfj1qa1ZPsI127bw:1584790272162&amp;gbv=1&amp;sei=APt1XrzGCYKWr7wPsYKDWA</item>
+        <item>https://www.google.com/search?q=Toy+poodle&amp;sxsrf=ALeKk02SIEXzP1uA34ol69oXvAOt4XYXSA:1584804173359&amp;gbv=1&amp;sei=TTF2XurJFZ-Mr7wPwJG12Ak</item>
+        <item>https://www.google.com/search?q=%E8%BF%B7%E4%BD%A0%E8%B2%B4%E8%B3%93%E7%8A%AC&amp;sxsrf=ALeKk02QcEDDC2WRVWrE5g1h5Si5OAEloA:1584790314255&amp;gbv=1&amp;sei=Kvt1XsyPD4-GoATd3YwQ</item>    <!--error-->
+        <item>https://www.google.com/search?q=%E8%B2%B4%E8%B3%93%E7%8A%AC&amp;sxsrf=ALeKk02A0tRNdltaOAt9rW7RDd3oTBMHTQ:1584872042471&amp;gbv=1&amp;sei=ajp3XtCwHIe0mAWq7I-4Aw</item>    <!--error-->
+        <item>https://www.google.com/search?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%84%A1%E6%AF%9B%E7%8A%AC&amp;sxsrf=ALeKk02qooUfzDOiR-x7KliBnidK7rGRAg:1584790370804&amp;gbv=1&amp;sei=Yvt1XqvOMI-noAT_wYzICQ</item>
+        <item>https://www.google.com/search?q=%E6%BE%B3%E6%B4%B2%E9%87%8E%E7%8A%AC&amp;sxsrf=ALeKk01c-0-_lhnzg6dAegintj9-m76wGw:1584790390931&amp;gbv=1&amp;sei=dvt1Xui4ONuB-QbBuJLYBw</item>
+        <item>https://www.google.com/search?q=%E8%B1%BA&amp;sxsrf=ALeKk00NO4tgXqOFxJ1a-gsRfqgv8pWyfQ:1584790411392&amp;gbv=1&amp;sei=i_t1Xo_KF5TbhwP4n4nIBg</item>
+        <item>https://www.google.com/search?q=%E9%9D%9E%E6%B4%B2%E9%87%8E%E7%8A%AC&amp;sxsrf=ALeKk00Fy2Pq08PyVvBnLZmfhk-0jGZAiA:1584790431894&amp;gbv=1&amp;sei=n_t1XregNsiDoATmmqugCw</item>
+    </string-array>
+</resources>
